@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="480" viewBox="0 0 1280 480" role="img" aria-labelledby="title desc">
+  <title id="title">Daniel security research banner</title>
+  <desc id="desc">A dark cyber-security banner with an angular D monogram, a shield, and cyan circuit lines.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset=".55" stop-color="#0b1530"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+    <linearGradient id="mint" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#34d399"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#1e3a5f" stroke-width="1" opacity=".42"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="480" rx="24" fill="url(#background)"/>
+  <rect width="1280" height="480" rx="24" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1278" height="478" rx="23" fill="none" stroke="#1e293b" stroke-width="2"/>
+
+  <g fill="none" stroke="url(#cyan)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)">
+    <path d="M70 120h176l52 52h142"/>
+    <path d="M52 190h164l46 46h180"/>
+    <path d="M92 260h126l50 50h166"/>
+    <path d="M1210 120h-176l-52 52H840"/>
+    <path d="M1228 190h-164l-46 46H838"/>
+    <path d="M1188 260h-126l-50 50H846"/>
+  </g>
+  <g fill="#22d3ee" filter="url(#glow)">
+    <circle cx="70" cy="120" r="7"/><circle cx="52" cy="190" r="7"/><circle cx="92" cy="260" r="7"/>
+    <circle cx="1210" cy="120" r="7"/><circle cx="1228" cy="190" r="7"/><circle cx="1188" cy="260" r="7"/>
+  </g>
+
+  <g transform="translate(520 55)">
+    <path d="M120 8 222 48v78c0 71-41 123-102 150C59 249 18 197 18 126V48L120 8Z" fill="#071426" stroke="url(#cyan)" stroke-width="10" stroke-linejoin="round"/>
+    <path d="M77 78h43c39 0 62 25 62 58s-23 58-62 58H77Z" fill="none" stroke="url(#mint)" stroke-width="12" stroke-linejoin="round"/>
+    <path d="M112 108h12c18 0 29 10 29 28s-11 28-29 28h-12Z" fill="url(#cyan)"/>
+    <circle cx="184" cy="74" r="8" fill="#2dd4bf"/>
+  </g>
+
+  <text x="640" y="390" fill="#e2e8f0" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="800" letter-spacing="13" text-anchor="middle">DANIEL</text>
+  <text x="640" y="430" fill="#94a3b8" font-family="Consolas, monospace" font-size="18" letter-spacing="4" text-anchor="middle">SECURITY RESEARCH · TOOLING · DEFENSE</text>
+</svg>

@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="brand-header.svg" width="100%" alt="Gmblos cyber-security banner" />
+  <img src="daniel-cyber-banner.svg" width="100%" alt="Daniel cyber-security banner" />
+
+  <h1>Daniel</h1>
 
   <h3>Security Research · Defensive Operations · Authorized Testing</h3>
   <p>
@@ -56,7 +58,7 @@ through documented research, labs, CTFs, and explicitly authorized engagements.
 ## GitHub activity
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Gmblos&show_icons=true&hide_border=true&bg_color=00000000&title_color=0ea5e9&icon_color=2dd4bf&text_color=94a3b8" alt="Gmblos's GitHub statistics" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Gmblos&show_icons=true&hide_border=true&bg_color=00000000&title_color=0ea5e9&icon_color=2dd4bf&text_color=94a3b8" alt="Daniel's GitHub statistics" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gmblos&layout=compact&hide_border=true&bg_color=00000000&title_color=0ea5e9&text_color=94a3b8" alt="Most used languages" />
 </div>
 
