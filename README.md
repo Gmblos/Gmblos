@@ -1,74 +1,65 @@
 <div align="center">
-  <img src="cyber-mark.svg" width="96" height="96" alt="Minimal cyber-security logo" />
+  <img src="brand-header.svg" width="100%" alt="Gmblos cyber-security banner" />
 
-  # Gmblos
-
-  **Cybersecurity learner · SOC & Network Security · Ethical Security Testing**
-
+  <h3>Security Research · Defensive Operations · Authorized Testing</h3>
   <p>
-    <a href="https://github.com/Gmblos">
-      <img src="https://img.shields.io/badge/GitHub-Gmblos-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
-    </a>
-    <img src="https://img.shields.io/badge/Focus-Cybersecurity-0f766e?style=flat-square" alt="Cybersecurity focus" />
-    <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-0369a1?style=flat-square" alt="Learning and building" />
+    <img src="https://img.shields.io/badge/SOC%20Analysis-0f172a?style=flat-square&logo=shield&logoColor=2dd4bf" alt="SOC Analysis" />
+    <img src="https://img.shields.io/badge/Network%20Security-0f172a?style=flat-square&logo=wireshark&logoColor=2dd4bf" alt="Network Security" />
+    <img src="https://img.shields.io/badge/Python%20%2B%20JavaScript-0f172a?style=flat-square&logo=python&logoColor=2dd4bf" alt="Python and JavaScript" />
   </p>
 </div>
 
-## About
+---
 
-I am a cybersecurity-focused developer and security practitioner interested in defensive operations, network security, threat research, and authorized penetration testing. I build practical tools, improve my technical depth, and approach security work with curiosity, documentation, and responsible disclosure in mind.
+```text
+Building practical security tools and sharpening defensive and offensive skills
+through documented research, labs, CTFs, and explicitly authorized engagements.
+```
 
-> All testing is performed only in authorized environments, labs, CTFs, or with explicit written permission.
+## Focus areas
 
-## Core capabilities
+<div align="center">
+  <img src="https://img.shields.io/badge/Blue%20Team-0f766e?style=flat-square" alt="Blue Team" />
+  <img src="https://img.shields.io/badge/Red%20Team-0369a1?style=flat-square" alt="Red Team" />
+  <img src="https://img.shields.io/badge/SOC%20Analysis-334155?style=flat-square" alt="SOC Analysis" />
+  <img src="https://img.shields.io/badge/OSINT%20%2F%20CSINT-334155?style=flat-square" alt="OSINT and CSINT" />
+  <img src="https://img.shields.io/badge/Advanced%20Networking-334155?style=flat-square" alt="Advanced Networking" />
+</div>
 
-| Area | Skills |
+| Discipline | Capabilities |
 | --- | --- |
 | Development | Python, JavaScript, web programming, PowerShell |
-| Defensive security | SOC analysis, blue-team fundamentals, incident triage, advanced networking and security |
-| Offensive security | Red-team fundamentals; authorized network, web, and hardware penetration testing |
-| Research & intelligence | OSINT, CSINT, social-engineering awareness |
-| Infrastructure | Networking, protocol analysis, security hardening |
+| Security operations | SOC analysis, blue-team fundamentals, incident triage, advanced networking and security |
+| Authorized testing | Red-team fundamentals; network, web, and hardware penetration testing |
+| Research | OSINT, CSINT, social-engineering awareness, threat research |
+
+> Security testing is limited to environments, systems, and scopes where authorization is explicit.
+
+## Projects
+
+<div align="center">
+  <a href="https://github.com/Gmblos/Dribik">
+    <img src="https://img.shields.io/badge/DRIBIK-Web%20Pentest%20Tool-0ea5e9?style=for-the-badge&logo=python&logoColor=white" alt="Dribik web pentest tool" />
+  </a>
+  <a href="https://github.com/Gmblos?tab=repositories">
+    <img src="https://img.shields.io/badge/ALL%20REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" />
+  </a>
+</div>
 
 ## Certifications
 
-- Hackvisor **CORE** Certificate
-- TryHackMe **HH2026** Certificate
-
-## Current direction
-
-- Building security tools and automation with Python and JavaScript
-- Deepening SOC workflows, log analysis, and blue-team detection skills
-- Practising authorized web, network, and hardware security testing in lab environments
-- Exploring threat intelligence, OSINT, and CSINT methodologies
-
-## Selected work
-
-Add your best repositories here. Prefer a short outcome-based description and link each project directly.
-
-| Project | What it demonstrates | Stack |
-| --- | --- | --- |
-| [Dribik](https://github.com/Gmblos/Dribik) | Web penetration-testing tool. | Python · Web Security |
-| [Project name](https://github.com/Gmblos/REPOSITORY) | One sentence on the lab, tool, dashboard, or research. | JavaScript · Web |
-| [Project name](https://github.com/Gmblos/REPOSITORY) | One sentence on the networking or analysis result. | PowerShell · Networking |
+<div align="center">
+  <img src="https://img.shields.io/badge/Hackvisor-CORE-0f766e?style=flat-square" alt="Hackvisor CORE Certificate" />
+  <img src="https://img.shields.io/badge/TryHackMe-HH2026-7c3aed?style=flat-square" alt="TryHackMe HH2026 Certificate" />
+</div>
 
 ## GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gmblos&show_icons=true&hide_border=true&bg_color=00000000&title_color=0f766e&icon_color=0f766e&text_color=334155" alt="Gmblos's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gmblos&layout=compact&hide_border=true&bg_color=00000000&title_color=0f766e&text_color=334155" alt="Most used languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Gmblos&show_icons=true&hide_border=true&bg_color=00000000&title_color=0ea5e9&icon_color=2dd4bf&text_color=94a3b8" alt="Gmblos's GitHub statistics" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gmblos&layout=compact&hide_border=true&bg_color=00000000&title_color=0ea5e9&text_color=94a3b8" alt="Most used languages" />
 </div>
 
-## Contact
-
-Replace these placeholders with the links you are comfortable sharing:
-
-- LinkedIn: [YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/)
-- Email: [YOUR-EMAIL@example.com](mailto:YOUR-EMAIL@example.com)
-- TryHackMe: [YOUR-TRYHACKME-USERNAME](https://tryhackme.com/p/YOUR-TRYHACKME-USERNAME)
-
----
-
 <div align="center">
-  <sub>Focused on learning, responsible practice, and making systems safer.</sub>
+  <sub>Learn deliberately. Test responsibly. Build tools that help make systems safer.</sub>
 </div>
