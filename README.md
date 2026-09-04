@@ -1,9 +1,11 @@
 <div align="center">
   <img src="daniel-cyber-banner.svg" width="100%" alt="Daniel cyber-security banner" />
+
   <h1>Daniel</h1>
+
   <h3>Security Research · Defensive Operations · Authorized Testing</h3>
   <p>
-    <img src="https://img.shields.io/badge/SOC%20Analysis-0f172a?style=flat-square" alt="SOC Analysis" />
+    <img src="https://img.shields.io/badge/SOC%20Analysis-0f172a?style=flat-square&logo=shield&logoColor=2dd4bf" alt="SOC Analysis" />
     <img src="https://img.shields.io/badge/Network%20Security-0f172a?style=flat-square&logo=wireshark&logoColor=2dd4bf" alt="Network Security" />
     <img src="https://img.shields.io/badge/Python%20%2B%20JavaScript-0f172a?style=flat-square&logo=python&logoColor=2dd4bf" alt="Python and JavaScript" />
   </p>
